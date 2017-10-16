@@ -23,6 +23,7 @@
         '-Wuninitialized',
         '-Wunreachable-code',
         '-Wold-style-cast',
+        '-Wmost',
         '-Wno-error=unused-variable'
       ]
   },
